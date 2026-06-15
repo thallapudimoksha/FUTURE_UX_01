@@ -22,5 +22,3 @@ This project focuses on redesigning a local beauty salon website with a strong e
 ## Design Goal
 To improve user engagement, increase appointments, and provide a clean user experience.
 
-## Author
-Meesala Sravani
